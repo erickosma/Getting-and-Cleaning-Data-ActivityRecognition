@@ -112,7 +112,6 @@ createDataSunary <- function(dataDirectoryNme) {
 #setwd("/path/to/Getting-and-Cleaning-Data-ActivityRecognition")
 #list.files()
 atualDir <- getwd()
-setwd("/home/zoy/BI/prova/cleardata/Getting-and-Cleaning-Data-ActivityRecognition")
 list.files()
 
 
